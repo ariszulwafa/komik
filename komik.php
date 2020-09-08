@@ -16,7 +16,7 @@
     echo "    1) CERITA CITRA EPS 1\n";
     echo "    2) CERITA CITRA EPS 2\n";
     echo "    3) CERITA CITRA EPS 3\n";
-    echo "    4) UPACARA SEKOLAH\n";                                                        echo "    5) TEMAN SEKELA                       >
+    echo "    4) UPACARA SEKOLAH\n";                                                                               
     echo "    5) INDOMARET\n";
     echo "    6) ICE CREAM\n";
     echo "    0) KELUAR\n";
