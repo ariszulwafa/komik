@@ -63,11 +63,12 @@ echo $blue." ===========================================
     |   21) PACARKU SANGE     |
     ===========================
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n";
+     KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n
+
 system('sleep 0.4');
     echo $green."
- PILIH NOMOR YG LU INGIN LU DOWNLOAD :\n";
-->>>>>>>>>
+ PILIH NOMOR YG LU INGIN LU DOWNLOAD :\n
+ >>>>>>>>>";
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
