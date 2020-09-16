@@ -62,6 +62,8 @@ echo $blue." ===========================================
     |   20) IBUKU SELINGKUH   |
     |   21) PACARKU SANGE     |
     ===========================
+     BACA INI!!!!
+     KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI NEW
      KETIK 99 UNTUK KELUAR SCRIPT
      KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n";
 
@@ -156,6 +158,10 @@ case 18:
                 echo "ANDA AKAN MENGHUBUNGI AUTHOR\n";
              system('sleep 1');
              system('xdg-open https://wa.me/628884196160');
+exit();
+case 55:
+system('git pull');
+system('sleep 4');
 exit();
 
      case 99:
