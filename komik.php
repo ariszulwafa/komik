@@ -65,12 +65,11 @@ echo $blue." ===========================================
      BACA INI!!!!
      KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n";
+     KETIK 77 ATAU ENTER  UNTUK CHAT AUTHOR\n";
 
 system('sleep 0.4');
     echo $green."
- PILIH NOMOR YG LU INGIN LU DOWNLOAD :\n
- >>>>>>>>>";
+ PILIH NOMOR YG LU INGIN LU DOWNLOAD :\n";
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
@@ -154,7 +153,7 @@ case 18:
                 exit();case 21:
                 echo "BELUM TERSEDIA\n";
                 exit();
-           case 0:
+           case 77:
                 echo "ANDA AKAN MENGHUBUNGI AUTHOR\n";
              system('sleep 1');
              system('xdg-open https://wa.me/628884196160');
