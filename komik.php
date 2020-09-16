@@ -63,7 +63,7 @@ echo $blue." ===========================================
     |   21) PACARKU SANGE     |
     ===========================
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n
+     KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n";
 
 system('sleep 0.4');
     echo $green."
