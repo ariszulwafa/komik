@@ -2,20 +2,21 @@
          // ngapain tong,jangan recode
          // NGAPAIN NANO AMJINF
          // Print out main menu..
-  system('sleep 2');
+  system('sleep 0.5');
  system('clear');
-   echo " JANGAN RECODE [>       ]";
-  system('sleep 1');
+   echo " MEMBUKA [>       ]";
+  system('sleep 0.5');
 system('clear');
-   echo " RECODE MANDUL [>>      ]";
-  system('sleep 1');
+   echo " MEMBUKA [>>      ]";
+  system('sleep 0.5');
 system('clear');
-   echo " JANGAN RECODE [>>>     ]";
-  system('sleep 1');
+   echo " MEMBUKA [>>>     ]";
+  system('sleep 0.5');
 system('clear');
-   echo " RECODE MANDUL [>>>>    ]";                                                      system('sleep 1');
+   echo " MEMBUKA [>>>>    ]";       
+system('sleep 0.5');                                               system('sleep 1');
 system('clear');
-   echo " JANGAN RECODE [>>>>>   ]";
+   echo " MEMBUKA [>>>>>   ]";
   system('sleep 1');
 system('clear');                                                                           echo " RECODE MANDUL [>>>>>>  ]";
   system('sleep 1');
@@ -159,8 +160,9 @@ case 18:
              system('xdg-open https://wa.me/628884196160');
 exit();
 case 55:
-echo "TUNGGU SEDANG DIUPDATE";
+echo "OKE ANDA AKAN MENG UPDATE SCRIPT INI";
 system('sleep 1');
+system('clear');
 system('git pull');
 system('sleep 1');
 echo "SUDAH GAN";
