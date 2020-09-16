@@ -69,7 +69,7 @@ echo $blue." ===========================================
 
 system('sleep 0.4');
     echo $green."
- PILIH NOMOR YG LU INGIN LU DOWNLOAD :\n";
+ PILIH NOMOR  :";
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
