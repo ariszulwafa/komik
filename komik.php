@@ -4,19 +4,19 @@
          // Print out main menu..
   system('sleep 0.5');
  system('clear');
-   echo " MEMBUKA [>       ]";
+   echo " MEMBUKA [>    ]";
   system('sleep 0.5');
 system('clear');
-   echo " MEMBUKA [>>      ]";
+   echo " MEMBUKA [>>   ]";
   system('sleep 0.5');
 system('clear');
-   echo " MEMBUKA [>>>     ]";
+   echo " MEMBUKA [>>>  ]";
   system('sleep 0.5');
 system('clear');
-   echo " MEMBUKA [>>>>    ]";       
+   echo " MEMBUKA [>>>> ]";       
 system('sleep 0.5');                                               
 system('clear');
-   echo " MEMBUKA [>>>>>   ]";
+   echo " MEMBUKA [>>>>>]";
   system('sleep 1');
 system('clear');
 
@@ -59,7 +59,7 @@ echo $blue." ===========================================
      KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
      KETIK 77 ATAU ENTER  UNTUK CHAT AUTHOR
-     JIKA TULISAN DIBAWAH HILANG,SILAHKAN KELUAR LALU KEMBALI
+     JIKA TULISAN DIBAWAH HILANG,SILAHKAN KELUAR LALU KEMBALI\n";
 
 system('sleep 0.4');
     echo $green."
