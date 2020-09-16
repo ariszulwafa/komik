@@ -160,9 +160,11 @@ case 18:
              system('xdg-open https://wa.me/628884196160');
 exit();
 case 55:
-echo "TUNGGU SEDANG DIUPDATE"\n;
+echo "TUNGGU SEDANG DIUPDATE";
+system('sleep 1');
+system('clear');
 system('git pull');
-system('sleep 4');
+system('sleep 1');
 echo "SUDAH GAN";
 system('sleep 1');
 system('php komik.php');
