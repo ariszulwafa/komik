@@ -14,17 +14,9 @@ system('clear');
   system('sleep 0.5');
 system('clear');
    echo " MEMBUKA [>>>>    ]";       
-system('sleep 0.5');                                               system('sleep 1');
+system('sleep 0.5');                                               
 system('clear');
    echo " MEMBUKA [>>>>>   ]";
-  system('sleep 1');
-system('clear');                                                                           echo " RECODE MANDUL [>>>>>>  ]";
-  system('sleep 1');
-system('clear');
-   echo " JANGAN RECODE [>>>>>>> ]";
-  system('sleep 1');
-system('clear');
-   echo " RECODE MANDUL [>>>>>>>>]";
   system('sleep 1');
 system('clear');
 
@@ -66,7 +58,8 @@ echo $blue." ===========================================
      BACA INI!!!!
      KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK 77 ATAU ENTER  UNTUK CHAT AUTHOR\n";
+     KETIK 77 ATAU ENTER  UNTUK CHAT AUTHOR
+     JIKA TULISAN DIBAWAH HILANG,SILAHKAN KELUAR LALU KEMBALI
 
 system('sleep 0.4');
     echo $green."
