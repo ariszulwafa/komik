@@ -69,7 +69,7 @@ echo $blue." ===========================================
 
 system('sleep 0.4');
     echo $green."
- PILIH NOMOR  :";
+ PILIH NOMOR GAN :";
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
@@ -161,7 +161,6 @@ exit();
 case 55:
 echo "TUNGGU SEDANG DIUPDATE";
 system('sleep 1');
-system('clear');
 system('git pull');
 system('sleep 1');
 echo "SUDAH GAN";
