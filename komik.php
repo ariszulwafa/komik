@@ -63,7 +63,7 @@ echo $blue." ===========================================
     |   21) PACARKU SANGE     |
     ===========================
      BACA INI!!!!
-     KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI NEW
+     KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
      KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n";
 
@@ -160,7 +160,7 @@ case 18:
              system('xdg-open https://wa.me/628884196160');
 exit();
 case 55:
-echo "tunggu sedang update";
+echo "TUNGGU SEDANG DIUPDATE"\n;
 system('git pull');
 system('sleep 4');
 echo "SUDAH GAN";
