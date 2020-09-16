@@ -66,7 +66,8 @@ echo $blue." ===========================================
      KETIK (0) ATAU ENTER  UNTUK CHAT AUTHOR\n";
 system('sleep 0.4');
     echo $green."
- PILIH NOMOR YG LU INGIN LU DOWNLOAD:";
+ PILIH NOMOR YG LU INGIN LU DOWNLOAD :\n";
+->>>>>>>>>
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
