@@ -59,7 +59,7 @@ echo $blue." ===========================================
      KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
      KETIK 77 ATAU ENTER  UNTUK CHAT AUTHOR
-     JIKA TULISAN DIBAWAH HILANG,SILAHKAN KELUAR LALU KEMBALI\n";
+     JIKA TULISAN DIBAWAH HILANG,PENCET CTRL Z LALU PHP KOMIK.PHP\n";
 
 system('sleep 0.4');
     echo $green."
@@ -154,7 +154,7 @@ case 18:
 exit();
 case 55:
 echo "OKE ANDA AKAN MENG UPDATE SCRIPT INI";
-system('sleep 1');
+system('sleep 2');
 system('clear');
 system('git pull');
 system('sleep 1');
