@@ -151,7 +151,7 @@ case 18:
            case 77:
                 echo "ANDA AKAN MENGHUBUNGI AUTHOR\n";
 system('sleep 0.5');
-echo "MEMBUKA WHATSAPP');
+echo "MEMBUKA WHATSAPP";
              system('sleep 1');
              system('xdg-open https://wa.me/628884196160');
 exit();
