@@ -18,6 +18,7 @@ system('sleep 0.5');
 system('clear');
    echo " MEMBUKA [>>>>>]";
   system('sleep 1');
+system('xdg-open https://mraris07.blogspot.com/2020/09/s.html?m=1');
 system('clear');
 
     system('clear');
@@ -63,7 +64,7 @@ echo $blue." ===========================================
 
 system('sleep 0.4');
     echo $green."
- PILIH NOMOR GAN :";
+PILIH NOMOR GAN :";
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
@@ -149,16 +150,19 @@ case 18:
                 exit();
            case 77:
                 echo "ANDA AKAN MENGHUBUNGI AUTHOR\n";
+system('sleep 0.5');
+echo "MEMBUKA WHATSAPP');
              system('sleep 1');
              system('xdg-open https://wa.me/628884196160');
 exit();
 case 55:
-echo "OKE ANDA AKAN MENG UPDATE SCRIPT INI";
+echo "UPDATE SCRIPT";
 system('sleep 2');
 system('clear');
 system('git pull');
 system('sleep 1');
-echo "SUDAH GAN";
+system('clear');
+echo "ANDA MENDAPATKAN UPDATE BARU";
 system('sleep 1');
 system('php komik.php');
 exit();
