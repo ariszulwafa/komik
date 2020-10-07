@@ -2,13 +2,12 @@
          // ngapain tong,jangan recode
          // NGAPAIN NANO AMJINF
          // Print out main menu..
-  echo "Apakah Kau Sagne?";
-switch(trim(fgets(STDIN)))
-        {}
-echo "Anda Bocil?";
-switch(trim(fgets(STDIN)))
-        {}
-echo"Ingat!! Hanya Untuk Dewasa!!!";
+system('clear');
+  echo "Terima Kasih Telah Menggunakan Script Ini,
+Gunakan Sewajarnya Jangan Berlebihan
+Dilarang Recode,Hargai Saya Membuat Script Ini
+Selama 2 Minggu Lebih Untuk Belajar PHP
+Thanks To All (enter untuk lanjut)";
 switch(trim(fgets(STDIN)))
         {}
   system('sleep 1');
@@ -52,9 +51,8 @@ echo $blue." AUTHOR : MAris\n";
      BACA INI!!!!
      KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK 77 ATAU ENTER  UNTUK CHAT AUTHOR
-     JIKA TULISAN DIBAWAH HILANG,PENCET CTRL Z LALU PHP KOMIK.PHP\n";
-
+     KETIK 77 UNTUK CHAT AUTHOR
+   
 system('sleep 0.4');
     echo $green."
 PILIH NOMOR GAN :";
