@@ -2,25 +2,16 @@
          // ngapain tong,jangan recode
          // NGAPAIN NANO AMJINF
          // Print out main menu..
-  system('sleep 0.5');
- system('clear');
-   echo " MEMBUKA [>    ]";
-  system('sleep 0.5');
-system('clear');
-   echo " MEMBUKA [>>   ]";
-  system('sleep 0.5');
-system('clear');
-   echo " MEMBUKA [>>>  ]";
-  system('sleep 0.5');
-system('clear');
-   echo " MEMBUKA [>>>> ]";       
-system('sleep 0.5');                                               
-system('clear');
-   echo " MEMBUKA [>>>>>]";
+  echo "Apakah Kau Sagne?";
+switch(trim(fgets(STDIN)))
+        {}
+echo "Anda Boci";
+switch(trim(fgets(STDIN)))
+        {}
   system('sleep 1');
 system('xdg-open https://mraris07.blogspot.com/2020/09/s.html?m=1');
 system('clear');
-
+system('espeak hello, welcome,to,my,tools
     system('clear');
     $green  = "\e[92m";
     $red    = "\e[91m";
@@ -34,8 +25,7 @@ system('sleep 0.1');
 |   < (_) | | | | | | |   <
 |_|\_\___/|_| |_| |_|_|_|\_versi 1.3\n";
 system('sleep 0.5');
-echo $blue." ===========================================
-                     |   AUTHOR : MR.ARIS  |\n";
+echo $blue." AUTHOR : MAris\n";
     system('sleep  0.3');
     echo $yellow. "    ====================================================
     |      [    BLOK 1   ]    |      [   BLOK 2  ]     |
