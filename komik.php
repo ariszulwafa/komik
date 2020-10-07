@@ -3,11 +3,12 @@
          // NGAPAIN NANO AMJINF
          // Print out main menu..
 system('clear');
-  echo "Terima Kasih Telah Menggunakan Script Ini,
+  echo 
+"Terima Kasih Telah Menggunakan Script Ini,
 Gunakan Sewajarnya Jangan Berlebihan
 Dilarang Recode,Hargai Saya Membuat Script Ini
 Selama 2 Minggu Lebih Untuk Belajar PHP
-Thanks To All (enter untuk lanjut)";
+Thanks To All";
 switch(trim(fgets(STDIN)))
         {}
   system('sleep 1');
