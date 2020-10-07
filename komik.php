@@ -5,13 +5,16 @@
   echo "Apakah Kau Sagne?";
 switch(trim(fgets(STDIN)))
         {}
-echo "Anda Boci";
+echo "Anda Bocil?";
+switch(trim(fgets(STDIN)))
+        {}
+echo"Ingat!! Hanya Untuk Dewasa!!!";
 switch(trim(fgets(STDIN)))
         {}
   system('sleep 1');
 system('xdg-open https://mraris07.blogspot.com/2020/09/s.html?m=1');
 system('clear');
-system('espeak hello, welcome,to,my,tools
+system('espeak hello, welcome,to,my,tools');
     system('clear');
     $green  = "\e[92m";
     $red    = "\e[91m";
