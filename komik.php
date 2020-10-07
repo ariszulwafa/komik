@@ -28,7 +28,9 @@ system('sleep 0.1');
 |   < (_) | | | | | | |   <
 |_|\_\___/|_| |_| |_|_|_|\_versi 1.3\n";
 system('sleep 0.5');
-echo $blue." AUTHOR : MAris\n";
+echo $blue.
+" AUTHOR : Aris
+TEAM   : MAris\n";
     system('sleep  0.3');
     echo $yellow. "    ====================================================
     |      [    BLOK 1   ]    |      [   BLOK 2  ]     |
@@ -43,21 +45,17 @@ echo $blue." AUTHOR : MAris\n";
     |      [   BLOK 3    ]    |
     |   15) KUDA-KUDAAN       |
     |   16) PR                |
-    |   17) SEBUAH PERJALANAN |
+    |   17) SEBUAH PERJALANAN | 
     |   18) MIHO ICHIKI       |
-    |   19) TETANGGA NAKAL    |
-    |   20) IBUKU SELINGKUH   |
-    |   21) PACARKU SANGE     |
-    ===========================
-     BACA INI!!!!
-     KETIK 55 UNTUK 
-     KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK 77 UNTUK CHAT AUTHOR
-     KETIK 88 UNTUK MEMBERI SARAN\n";
+    |   19) TETANGGA NAKAL    |KETIK 55 UNTUK
+    |   20) IBUKU SELINGKUH   |KETIK 99 UNTUK KELUAR SCRIPT
+    |   21) PACARKU SANGE     |KETIK 77 UNTUK CHAT AUTHOR
+    ===========================KETIK 88 UNTUK MEMBERI SARAN\n";
+     
    
 system('sleep 0.4');
     echo $green."
-PILIH NOMOR GAN :";
+PILIH NOMOR GAN :\n";
      switch(trim(fgets(STDIN)))
         {
             case 1:                                                                                                                                          echo "LINK NYA NIH GAN \n";
