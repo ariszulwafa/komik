@@ -50,9 +50,10 @@ echo $blue." AUTHOR : MAris\n";
     |   21) PACARKU SANGE     |
     ===========================
      BACA INI!!!!
-     KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
+     KETIK 55 UNTUK 
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK 77 UNTUK CHAT AUTHOR\n";
+     KETIK 77 UNTUK CHAT AUTHOR
+     KETIK 88 UNTUK MEMBERI SARAN\n";
    
 system('sleep 0.4');
     echo $green."
@@ -145,7 +146,7 @@ case 18:
 system('sleep 0.5');
 echo "MEMBUKA WHATSAPP";
              system('sleep 1');
-             system('xdg-open https://wa.me/628884196160');
+             system('xdg-open https://wa.me/628232456646');
 exit();
 case 55:
 echo "UPDATE SCRIPT";
@@ -163,6 +164,11 @@ exit();
            echo "ANDA KELUAR DARI SCRIPT\n";
            system('sleep 3');
            exit();
+case 88:
+echo "Membuka Chrome\n";
+system('sleep 0.4');
+system('xdg-open https://surveyheart.com/form/5f7d9a57c366005648027f1e');
+exit();
         }
     // Close standard in..
     fclose(STDIN);
