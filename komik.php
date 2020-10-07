@@ -8,7 +8,9 @@ system('clear');
 Gunakan Sewajarnya Jangan Berlebihan
 Dilarang Recode,Hargai Saya Membuat Script Ini
 Selama 2 Minggu Lebih Untuk Belajar PHP
-Thanks To All";
+Thanks To All
+
+enter\n";
 switch(trim(fgets(STDIN)))
         {}
   system('sleep 1');
