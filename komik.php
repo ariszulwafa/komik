@@ -52,7 +52,7 @@ echo $blue." AUTHOR : MAris\n";
      BACA INI!!!!
      KETIK 55 UNTUK UPDATE AGAR DAPAT VERSI TERBARU
      KETIK 99 UNTUK KELUAR SCRIPT
-     KETIK 77 UNTUK CHAT AUTHOR
+     KETIK 77 UNTUK CHAT AUTHOR\n";
    
 system('sleep 0.4');
     echo $green."
