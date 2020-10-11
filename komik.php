@@ -30,15 +30,7 @@ echo $blue."MAris\n";
     |   6) ICE CREAM          |  13) SASUKE X SAKURA   |
     |   7) TEMAN SEKELAS      |  14) TSUNADE X NARUTO  |
     ====================================================
-    |      [   BLOK 3    ]    |
-    |   15) KUDA-KUDAAN       |
-    |   16) PR                |
-    |   17) SEBUAH PERJALANAN |
-    |   18) MIHO ICHIKI       |
-    |   19) TETANGGA NAKAL    |
-    |   20) IBUKU SELINGKUH   |
-    |   21) PACARKU SANGE     |
-    ===========================
+
      BACA INI!!!!
      KETIK 99 UNTUK KELUAR SCRIPT
      KETIK 77 ATAU UNTUK CHAT AUTHOR\n";
